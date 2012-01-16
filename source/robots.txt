@@ -1,0 +1,4 @@
+Sitemap: http://tomhoover.net/sitemap.xml
+
+User-agent: *
+Disallow: /error/404/index.html
