@@ -28,7 +28,7 @@ GEM
       maruku (>= 0.5.9)
     kramdown (2.3.1)
       rexml
-    liquid (2.2.2)
+    liquid (5.0.1)
     maruku (0.6.0)
       syntax (>= 1.0.0)
     posix-spawn (0.3.6)
@@ -60,7 +60,7 @@ DEPENDENCIES
   compass (>= 0.11)
   haml (>= 3.1)
   jekyll
-  liquid (= 2.2.2)
+  liquid (= 5.0.1)
   pygments.rb
   rack
   rake
